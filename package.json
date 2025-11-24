@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Alenka319/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Alenka319/frontend-project-44/actions)",
+  "main": "index.js",
+  "bin": {
+    "code": "bin/brain-calc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alenka319/frontend-project-44.git"
+  },
+  "author": "Alena319",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alenka319/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Alenka319/frontend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
