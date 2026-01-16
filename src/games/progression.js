@@ -1,4 +1,4 @@
-import { getRandomNumber, generateSequence, replaceAt } from '../math-utils.js'
+import { getRandomNumber, generateSequence, replaceAt } from '../games/math-utils.js'
 
 const descriptionProgression = 'What number is missing in the progression?'
 

@@ -1,4 +1,4 @@
-import { getRandomNumber, getRandomSign, calculate } from '../math-utils.js'
+import { getRandomNumber, getRandomSign, calculate } from '../games/math-utils.js'
 
 const descriptionCalc = 'What is the result of the expression?'
 

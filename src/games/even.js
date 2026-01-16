@@ -1,4 +1,4 @@
-import { getRandomNumber } from '../math-utils.js'
+import { getRandomNumber } from '../games/math-utils.js'
 
 const descriptionEven = 'Answer "yes" if the number is even, otherwise answer "no".'
 

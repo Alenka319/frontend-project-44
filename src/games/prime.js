@@ -1,4 +1,4 @@
-import { getRandomNumber, isPrime } from '../math-utils.js'
+import { getRandomNumber, isPrime } from '../games/math-utils.js'
 
 const descriptionPrime = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 

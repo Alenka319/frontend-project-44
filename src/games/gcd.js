@@ -1,4 +1,4 @@
-import { getRandomNumber } from '../math-utils.js'
+import { getRandomNumber } from '../games/math-utils.js'
 
 const descriptionGcd = 'Find the greatest common divisor of given numbers.'
 
